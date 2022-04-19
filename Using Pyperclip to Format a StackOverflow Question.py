@@ -1,4 +1,4 @@
-'''StackOverflow Questions require 4 spaces before every single line of code begins, it's used to indicate what part of it is code and what part of it is plain text,
+'''StackOverflow Questions require 4 spaces before every single line of code, it's used to indicate what part of it is code and what part of it is plain text,
 isn't it boring and tedious to do it manually?''' 
 import pyperclip
 text = pyperclip.paste()
